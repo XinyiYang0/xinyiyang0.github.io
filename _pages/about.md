@@ -69,7 +69,7 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/seed.gif" alt="Seed">
+      <img src="/images/resonant.gif" alt="Seed">
     </div>
     <div class="meta">
       <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
