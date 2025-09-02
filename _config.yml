@@ -7,15 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xinyi Yang"
-title_separator          : "-"
-name                     : &name "Xinyi Yang"
-description              : &description "personal description"
-url                      : "https://xinyiyang0.github.io"github.io"
-baseurl                  : ""
-repository               : "XinyiYang0/xinyiyang0.github.io"
+locale      : "en-US"
+site_theme  : "default"
+title       : "Xinyi Yang"
+title_separator : "-"
+name        : &name "Xinyi Yang"
+description : &description "Robotics and design"
+url         : "https://xinyiyang0.github.io"
+baseurl     : ""
+repository  : "XinyiYang0/xinyiyang0.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
