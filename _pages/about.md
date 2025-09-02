@@ -19,7 +19,7 @@ Outside of research, I enjoy hands-on prototyping, data-driven analysis, and col
 
 Research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research frames geometry as a functional language for creating autonomous and adaptive systems. By embedding function into shape and material architecture, I explore how structures can sense, respond, and adapt to their environment without relying on continuous control or electronics. This approach opens pathways to lightweight, resilient, and programmable systems for robotics, aerospace, and deployable mechanisms.
 
 <div class="research-list">
 
