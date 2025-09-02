@@ -25,12 +25,12 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/1.gif" alt="Quadrotor–pendulum dynamics">
+      <img src="/images/1.gif" alt="particle robots">
     </div>
     <div class="meta">
-      <h3>Physics-guided clustering for quadrotor–pendulum dynamics</h3>
-      <p>Two-level clustering of flight trajectories to reveal regime structure and guide sequence models for inverse design.</p>
-      <p><strong>DOI:</strong> <a href="https://doi.org/10.1234/placeholder">10.1234/placeholder</a></p>
+      <h3>Electronic-Free Particle Robots Communicate through Architected Tentacles</h3>
+      <p>Xinyi Yang, Bohan Wang, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera,Leonid Sopizhenko, Shucong Li, William Freeman,* Wojciech Matusik,*and Bolei Deng*</p>
+      <p><strong>DOI:</strong> <a href="https://doi.org/10.1002/aisy.202500151">10.1002/aisy.202500151</a></p>
     </div>
   </div>
 
