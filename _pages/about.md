@@ -70,11 +70,6 @@ My research frames geometry as a functional language for creating autonomous and
 </div>
 
 <style>
-  
-.research-list .meta {
-  flex: 1;
-}
-  
 .research-list .meta h3 {
   font-size: 1.1rem;
   margin-top: 0;
@@ -99,9 +94,9 @@ My research frames geometry as a functional language for creating autonomous and
 }
 
 .research-list .media img {
-  max-width: 300px;
-  height: auto;          /* keeps natural height */
-  object-fit: contain;   /* prevents distortion */
+  width: 300px;          /* consistent width */
+  height: 200px;         /* consistent height */
+  object-fit: cover;     /* fills the box, crops overflow */
   border-radius: 6px;
 }
 
