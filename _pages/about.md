@@ -58,17 +58,6 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/seed.gif" alt="Seed">
-    </div>
-    <div class="meta">
-      <h3>Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment</h3>
-      <p>Xinyi Yang, Victor Riera Naranjo,  Yiyuan Sun, Haocheng Yu,  Martin Nisser, Bolei Deng</p>
-      <p>Under Submission</p>
-    </div>
-  </div>
-
-  <div class="item">
-    <div class="media">
       <img src="/images/resonant.gif" alt="Seed">
     </div>
     <div class="meta">
