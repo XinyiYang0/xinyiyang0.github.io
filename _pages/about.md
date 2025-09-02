@@ -29,7 +29,7 @@ My research frames geometry as a functional language for creating autonomous and
     </div>
     <div class="meta">
       <h3>Electronic-Free Particle Robots Communicate through Architected Tentacles</h3>
-      <p>Xinyi Yang, Bohan Wang, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera,Leonid Sopizhenko, Shucong Li, William Freeman,* Wojciech Matusik,*and Bolei Deng*</p>
+      <p>Xinyi Yang<span>#</span>, Bohan Wang<span>#</span>, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera,Leonid Sopizhenko, Shucong Li, William Freeman*, Wojciech Matusik*,Bolei Deng*</p>
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1002/aisy.202500151">10.1002/aisy.202500151</a></p>
     </div>
   </div>
@@ -39,8 +39,8 @@ My research frames geometry as a functional language for creating autonomous and
       <img src="/images/1.gif" alt="Self-disassembly cube">
     </div>
     <div class="meta">
-      <h3>Self-disassembly modular structures</h3>
-      <p>Vibration-triggered interconnects for programmable assembly and release in lightweight lattices.</p>
+      <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
+      <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1234/placeholder2">10.1234/placeholder2</a></p>
     </div>
   </div>
