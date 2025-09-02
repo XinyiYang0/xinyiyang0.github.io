@@ -29,7 +29,7 @@ My research frames geometry as a functional language for creating autonomous and
     </div>
     <div class="meta">
       <h3>Electronic-Free Particle Robots Communicate through Architected Tentacles</h3>
-      <p>Xinyi Yang<span>#</span>, Bohan Wang<span>#</span>, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera,Leonid Sopizhenko, Shucong Li, William Freeman*, Wojciech Matusik*,Bolei Deng*</p>
+      <p>Xinyi Yang<span>#</span>, Bohan Wang<span>#</span>, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera ,Leonid Sopizhenko, Shucong Li, William Freeman*, Wojciech Matusik*,Bolei Deng*</p>
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1002/aisy.202500151">10.1002/aisy.202500151</a></p>
     </div>
   </div>
@@ -41,18 +41,40 @@ My research frames geometry as a functional language for creating autonomous and
     <div class="meta">
       <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
       <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
-      <p><strong>DOI:</strong> <a href="https://doi.org/10.1234/placeholder2">10.1234/placeholder2</a></p>
+      <p>Under Submission</p>
     </div>
   </div>
 
   <div class="item">
     <div class="media">
-      <img src="/images/1.gif" alt="Bistable TPU-fabric morphing">
+      <img src="/images/1.gif" alt="Seed">
     </div>
     <div class="meta">
-      <h3>Bistable morphing via printed TPU on stretch fabric</h3>
-      <p>Planar prints that pop into 3D domes with tunable snap-through for deployable mechanisms.</p>
-      <p><strong>DOI:</strong> <a href="https://doi.org/10.1234/placeholder3">10.1234/placeholder3</a></p>
+      <h3>Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment</h3>
+      <p>Xinyi Yang, Victor Riera Naranjo,  Yiyuan Sun, Haocheng Yu,  Martin Nisser, Bolei Deng</p>
+      <p>Under Submission</p>
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="media">
+      <img src="/images/seed.gif" alt="Seed">
+    </div>
+    <div class="meta">
+      <h3>Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment</h3>
+      <p>Xinyi Yang, Victor Riera Naranjo,  Yiyuan Sun, Haocheng Yu,  Martin Nisser, Bolei Deng</p>
+      <p>Under Submission</p>
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="media">
+      <img src="/images/seed.gif" alt="Seed">
+    </div>
+    <div class="meta">
+      <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
+      <p>Xinyi Yang, Victor Riera Naranjo, Bolei Deng</p>
+      <p>Under Submission</p>
     </div>
   </div>
 
