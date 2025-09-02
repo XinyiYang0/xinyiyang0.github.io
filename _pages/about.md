@@ -47,7 +47,7 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/1.gif" alt="Seed">
+      <img src="/images/seed.gif" alt="Seed">
     </div>
     <div class="meta">
       <h3>Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment</h3>
