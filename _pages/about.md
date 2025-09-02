@@ -70,22 +70,27 @@ My research frames geometry as a functional language for creating autonomous and
 </div>
 
 <style>
+  
 .research-list .meta {
   flex: 1;
 }
+  
 .research-list .meta h3 {
   font-size: 1.1rem;
   margin-top: 0;
   margin-bottom: 6px;
 }
+  
 .research-list .meta p {
   font-size: 0.85rem;
   line-height: 1.4;
   margin: 2px 0;
 }
+  
 .research-list .meta p strong {
   font-size: 0.85rem;
 }
+  
 .research-list .item {
   display: flex;
   align-items: center;   /* align gif + text vertically */
