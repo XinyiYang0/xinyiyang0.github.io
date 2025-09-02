@@ -59,7 +59,7 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 </div>
 
 <style>
-.research-list .item { display: flex; align-items: center;   /* aligns gif + text vertically */ gap: 16px; margin: 24px 0;}
+.research-list .item { display: flex; align-items: flex-start;   /* aligns gif + text vertically */ gap: 16px; margin: 24px 0;}
 .research-list .media img { max-width: 300px; height: 100%;   /* stretch image to fill height of text */ object-fit: cover; /* keeps aspect ratio without distortion */}
 .research-list .meta { flex:1; }
 @media (max-width: 640px) { .research-list .item { flex-direction:column; } }
