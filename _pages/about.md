@@ -25,7 +25,7 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/1.gif" alt="particle robots">
+      <img src="/images/particle_robots.gif" alt="particle robots">
     </div>
     <div class="meta">
       <h3>Electronic-Free Particle Robots Communicate through Architected Tentacles</h3>
