@@ -58,11 +58,33 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/resonant.gif" alt="Seed">
+      <img src="/images/resonant.gif" alt="resonant">
     </div>
     <div class="meta">
       <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
       <p>Xinyi Yang, Victor Riera Naranjo, Bolei Deng</p>
+      <p>Under Submission</p>
+    </div>
+  </div>
+  
+  <div class="item">
+    <div class="media">
+      <img src="/images/inerter.gif" alt="inerter">
+    </div>
+    <div class="meta">
+      <h3>Observation of Sub-Hertz Band Gaps in Ultra-Lightweight Inerter-Based Metamaterials</h3>
+      <p>Fei Chen<span>#</span>, Xinyi Yang<span>#</span>, Xiaochen Li, Jack R Platt, Michael Anthony Turja, Jan Luka Cas, Tyler S Silva, Chad Thomas Hickey, Jack Elliott Godfrey, Pai Wang*, Xuan Zhu*, Bolei Deng*</p>
+      <p>Under Submission</p>
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="media">
+      <img src="/images/1.gif" alt="insitu">
+    </div>
+    <div class="meta">
+      <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
+      <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Bolei Deng</p>
       <p>Under Submission</p>
     </div>
   </div>
