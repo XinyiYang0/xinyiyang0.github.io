@@ -28,20 +28,14 @@ author:
   bio              : "PhD researcher at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
-  uri              : # URL
   email            : "xyang626@gatech.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Viou_z0AAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8877-0813"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xinyi-Yang-60?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
