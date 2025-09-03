@@ -80,7 +80,7 @@ My research frames geometry as a functional language for creating autonomous and
 
   <div class="item">
     <div class="media">
-      <img src="/images/1.gif" alt="insitu">
+      <img src="/images/insitu.gif" alt="insitu">
     </div>
     <div class="meta">
       <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
