@@ -84,7 +84,7 @@ My research frames geometry as a functional language for creating autonomous and
     </div>
     <div class="meta">
       <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
-      <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Bolei Deng</p>
+      <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Christos E Athanasiou*, Bolei Deng*</p>
       <p>Under Submission</p>
     </div>
   </div>
