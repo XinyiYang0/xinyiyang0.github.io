@@ -15,7 +15,7 @@ I am especially interested in:
 - Developing inverse design for robotics and materials;
 - Exploring multidisciplinary approaches that bridge engineering, design, and fabrication.
 
-Outside of research, I enjoy hands-on prototyping, data-driven analysis, and collaborative projects that connect robotics with broader applications in aerospace systems and human-centered design.
+Outside of research, I’m drawn to projects that blur boundaries between engineering and art, and I find energy in turning abstract ideas into tangible experiences.
 
 Research
 ======
