@@ -57,7 +57,7 @@ Work Experience
 
 Publications
 ======
-* **Electronic-free Particle Robots Communicate through Architected Tentacles** (Under Review)  
+* **Electronic-free Particle Robots Communicate through Architected Tentacles**(Advanced Intelligent Systems) 
   Xinyi Yang*, Bohan Wang*, Victor Riera Naranjo, Minghao Guo, Olivia Rivera, Leonid Sopizhenko, Shucong Li, William Freeman, Wojciech Matusik, Bolei Deng  
   DOI: [10.1002/aisy.202500151](https://doi.org/10.1002/aisy.202500151)
 
@@ -68,15 +68,15 @@ Publications
 * **Passive Vacuum Regeneration for Suction-Based Marine Adhesion Devices** (Accepted, IEEE Journal of Oceanic Engineering)  
   Germain Meyer, Daniel Vogt, Xinyi Yang, Robert Wood
 
-* **A Digital Fabrication Procedure to Rapidly Fold Structures via Pull-up Nets** (TEI 2023 Work-in-Progress)  
+* **A Digital Fabrication Procedure to Rapidly Fold Structures via Pull-up Nets** (ACM International Conference on Tangible, Embedded, and Embodied Interaction)  
   Xinyi Yang*, Lauren Niu*, Martin Nisser, Stefanie Mueller  
   DOI: [10.1145/3569009.3573123](https://dl.acm.org/doi/10.1145/3569009.3573123)
 
-* **A Programmable Composite Material for Tangible Interaction** (TEI 2023 Work-in-Progress)  
+* **A Programmable Composite Material for Tangible Interaction** (ACM International Conference on Tangible, Embedded, and Embodied Interaction)  
   Xinyi Yang, Martin Nisser, Stefanie Mueller  
   DOI: [10.1145/3569009.3573120](https://dl.acm.org/doi/10.1145/3569009.3573120)
 
-* **Azimuth Calculation and Telecommunication between VR Headset and Smartphone for Nearby Interaction** (TEI 2023 Work-in-Progress)  
+* **Azimuth Calculation and Telecommunication between VR Headset and Smartphone for Nearby Interaction** (ACM International Conference on Tangible, Embedded, and Embodied Interaction)  
   Xinyi Yang*, Susanna Chen*, Katarina Bulovic*, Junyi Zhu, Stefanie Mueller  
   DOI: [10.1145/3569009.3573107](https://doi.org/10.1145/3569009.3573107)
 
