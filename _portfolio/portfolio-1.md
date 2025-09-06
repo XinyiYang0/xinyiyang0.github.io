@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Rapid Folding via Pull Up Nets"
 collection: portfolio
+excerpt: "Can you imagine everything in the world folded into 3D from a flat 2D sheet?<br/><img src='/images/popupnets.gif'>"
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Pull Up Nets is a fabrication method that transforms flat 2D nets into complex 3D shapes with a single pull. This approach reimagines how everyday objects and structures can emerge from sheets, opening possibilities for design, rapid prototyping, and deployable systems.  
