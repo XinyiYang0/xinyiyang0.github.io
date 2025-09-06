@@ -41,7 +41,7 @@ My research frames geometry as a functional language for creating autonomous and
     <div class="meta">
       <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
       <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
-      <p>Under Submission</p>
+      <p>To be submitted</p>
     </div>
   </div>
 
@@ -52,7 +52,7 @@ My research frames geometry as a functional language for creating autonomous and
     <div class="meta">
       <h3>Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment</h3>
       <p>Xinyi Yang, Victor Riera Naranjo,  Yiyuan Sun, Haocheng Yu,  Martin Nisser, Bolei Deng</p>
-      <p>Under Submission</p>
+      <p>To be submitted</p>
     </div>
   </div>
 
@@ -63,7 +63,7 @@ My research frames geometry as a functional language for creating autonomous and
     <div class="meta">
       <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
       <p>Xinyi Yang, Victor Riera Naranjo, Bolei Deng</p>
-      <p>Under Submission</p>
+      <p>To be submitted</p>
     </div>
   </div>
   
@@ -85,11 +85,18 @@ My research frames geometry as a functional language for creating autonomous and
     <div class="meta">
       <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
       <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Christos E Athanasiou*, Bolei Deng*</p>
-      <p>Under Submission</p>
+      <p>To be submitted</p>
     </div>
   </div>
 
 </div>
+
+<hr>
+
+<p style="font-size:0.8rem; color:gray;">
+<span>#</span> indicates co–first authors.  
+<span>*</span> indicates corresponding authors.
+</p>
 
 <style>
 .research-list .meta h3 {
