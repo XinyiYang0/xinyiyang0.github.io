@@ -1,1 +1,5 @@
-
+---
+title: "Clustering Dynamics of a Pendulum–Quadcopter"
+collection: portfolio
+excerpt: "How can we uncover patterns in complex flight dynamics without supervision? This project applies a two-level K-Means clustering approach to a pendulum–quadcopter simulation. At the state level, individual time-step observations were clustered into five characteristic modes, such as hovering, aggressive pitching, and payload swinging. At the trajectory level, statistical features of each flight were clustered into four groups, revealing distinct regimes ranging from stable behavior to highly energetic maneuvers. Visualization through scatter plots, boxplots, and animated simulations highlighted how state transitions accumulate into different trajectory profiles. With evaluation metrics including silhouette and Davies–Bouldin scores confirming clustering quality, the study shows how unsupervised learning can structure chaotic motion data into interpretable behavioral categories <br/><img src='/images/clustering.gif' width='500'>"
+---
