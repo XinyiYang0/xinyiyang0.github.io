@@ -17,7 +17,7 @@ I am especially interested in:
 
 Outside of research, I’m drawn to projects that blur boundaries between engineering and art, and I find energy in turning abstract ideas into tangible experiences.
 
-Research
+Selected Research
 ======
 My research frames geometry as a functional language for creating autonomous and adaptive systems. By embedding function into shape and material architecture, I explore how structures can sense, respond, and adapt to their environment without relying on continuous control or electronics. This approach opens pathways to lightweight, resilient, and programmable systems for robotics, aerospace, and deployable mechanisms.
 
