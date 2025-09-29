@@ -8,7 +8,7 @@ author_profile: true
 <div class="pdf-grid">
   {% assign pages = 36 %}
   {% assign last = pages | minus: 1 %}
-  {% for i in (0..last) %}
+  {% for i in (1..last) %}
     <figure class="align-center">
       <img src="{{ '/images/Yang_Xinyi_Portfolio_Page_' | append: i | append: '.jpg' | relative_url }}"
            alt="Portfolio page {{ i | plus: 1 }}" loading="lazy">
