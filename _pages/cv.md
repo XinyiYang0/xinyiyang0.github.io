@@ -67,6 +67,7 @@ Publications
 
 * **Passive Vacuum Regeneration for Suction-Based Marine Adhesion Devices** (Accepted, IEEE Journal of Oceanic Engineering)  
   Germain Meyer, Daniel Vogt, Xinyi Yang, Robert Wood
+  DOI: [10.1109/JOE.2025.3595607](https://ieeexplore.ieee.org/document/11173923)
 
 * **A Digital Fabrication Procedure to Rapidly Fold Structures via Pull-up Nets** (ACM International Conference on Tangible, Embedded, and Embodied Interaction)  
   Xinyi Yang*, Lauren Niu*, Martin Nisser, Stefanie Mueller  
