@@ -55,6 +55,17 @@ My research frames geometry as a functional language for creating autonomous and
       <p>To be submitted</p>
     </div>
   </div>
+
+  <div class="item">
+    <div class="media">
+      <img src="/images/resonant.gif" alt="resonant">
+    </div>
+    <div class="meta">
+      <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
+      <p>Xinyi Yang, Bolei Deng</p>
+      <p>To be submitted</p>
+    </div>
+  </div>
   
   <div class="item">
     <div class="media">
