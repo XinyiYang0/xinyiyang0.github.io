@@ -41,7 +41,7 @@ My research frames geometry as a functional language for creating autonomous and
     <div class="meta">
       <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
       <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
-      <p>To be submitted</p>
+      <p>Under Submission</p>
     </div>
   </div>
 
