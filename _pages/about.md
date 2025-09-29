@@ -21,6 +21,8 @@ Selected Research
 ======
 My research frames geometry as a functional language for creating autonomous and adaptive systems. By embedding function into shape and material architecture, I explore how structures can sense, respond, and adapt to their environment without relying on continuous control or electronics. This approach opens pathways to lightweight, resilient, and programmable systems for robotics, aerospace, and deployable mechanisms.
 
+More interesting projects can be found in the "Portfolio Section".
+
 <div class="research-list">
 
   <div class="item">
