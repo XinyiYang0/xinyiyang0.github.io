@@ -1,1 +1,5 @@
-
+---
+title: "Fabrication Complexity of Stanford Bunny Morphologies"
+collection: portfolio
+excerpt: "What happens when computer-generated geometries meet the realities of clay fabrication? This project investigates the fabrication complexity of the iconic Stanford Bunny by translating digital morphologies—such as low-poly, one-strip, and bubble variations—into physical ceramic prototypes. Using 3D-printed molds, plaster casting, and silicon molding, the research categorizes which geometries can be achieved, which require alternative methods, and which remain impossible with current techniques. The results reveal unexpected contradictions: high-resolution models are often easier to fabricate than low-poly ones, small undercuts exponentially increase difficulty, and delicate features like ears are prone to failure. By bridging computer graphics with material practice, this work highlights the gap between digital design freedom and physical fabrication constraints <br/><img src='/images/bunny.jpg' width='500'>"
+---
