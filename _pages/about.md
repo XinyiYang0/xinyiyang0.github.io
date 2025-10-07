@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Xinyi Yang  
 **Mechanical & Robotics Engineer | Adaptive Structures • Prototyping • Aerospace Systems**
 
 I design, build, and test adaptive mechanical systems that merge robotics, materials, and aerospace engineering.
