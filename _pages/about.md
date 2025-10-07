@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Xinyi Yang, a PhD researcher in Robotics at Georgia Tech.
-My work sits at the intersection of aerospace, structures, and mechanism design, with a strong focus on novel mechanical systems, robotics dynamics, and adaptive materials.
+Mechanical & Robotics Engineer | Adaptive Structures • Prototyping • Aerospace Systems
 
-I am especially interested in:
-- Designing and fabricating programmable structures that adapt to their environment;
-- Developing inverse design for robotics and materials;
-- Exploring multidisciplinary approaches that bridge engineering, design, and fabrication.
+I design, build, and test adaptive mechanical systems that merge robotics, materials, and aerospace engineering.
+Currently a PhD researcher at Georgia Tech, I specialize in rapid prototyping, vibration-based actuation, and mechanical testing of architected structures.
 
-Outside of research, I’m drawn to projects that blur boundaries between engineering and art, and I find energy in turning abstract ideas into tangible experiences.
+My work translates experimental research into manufacturable designs for deployable and resilient hardware systems.
+
+Focus Areas: 
+- Adaptive and architected materials for vibration-triggered mechanisms;
+- Rapid prototyping and structural testing (3D printing, Instron, wind tunnel);
+- Mechanical design and analysis using SolidWorks, COMSOL, MATLAB, Python;
+- Control-oriented modeling and data-driven design of robotic systems.
 
 Selected Research
 ======
