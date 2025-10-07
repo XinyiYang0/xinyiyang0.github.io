@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Mechanical & Robotics Engineer | Adaptive Structures • Prototyping • Aerospace Systems
+Mechanical & Robotics Engineer:  Adaptive Structures • Prototyping • Aerospace Systems
 
 I design, build, and test adaptive mechanical systems that merge robotics, materials, and aerospace engineering.
 Currently a PhD researcher at Georgia Tech, I specialize in rapid prototyping, vibration-based actuation, and mechanical testing of architected structures.
