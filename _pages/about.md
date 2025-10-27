@@ -17,7 +17,7 @@ My work translates experimental research into manufacturable designs for deploya
 Focus Areas: 
 - Adaptive and architected materials for vibration-triggered mechanisms;
 - Rapid prototyping and structural testing (3D printing, Instron, wind tunnel);
-- Mechanical design and analysis using SolidWorks, COMSOL, MATLAB, Python;
+- Mechanical design and analysis using Rhino, SolidWorks, MATLAB, Python;
 - Control-oriented modeling and data-driven design of robotic systems.
 
 Selected Research
