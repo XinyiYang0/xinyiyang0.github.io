@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Mechanical & Robotics Engineer | Adaptive Structures • Prototyping • Aerospace Systems
+Non-electronic robotic systems are often viewed as limited, passive, or closer to mechanisms than robots. Without sensors, computation, or software, they are typically assumed to lack decision-making, adaptability, and autonomy.
 
-I design, build, and test adaptive mechanical systems that merge robotics, materials, and aerospace engineering.
-Currently a PhD researcher at Georgia Tech Aerospace Department, I specialize in rapid prototyping, vibration-based actuation, and mechanical testing of architected structures.
-
-My work translates experimental research into manufacturable designs for deployable and resilient hardware systems.
-
-Focus Areas: 
-- Adaptive and architected materials for vibration-triggered mechanisms;
-- Rapid prototyping and structural testing (3D printing, Instron, wind tunnel);
-- Mechanical design and analysis using Rhino, SolidWorks, MATLAB, Python;
-- Control-oriented modeling and data-driven design of robotic systems.
+I am Xinyi Yang, a PhD researcher in Aerospace Engineering at Georgia Tech, working at the intersection of robotics, mechanics, and architected materials. My research starts from a different question: **how much robotic functionality can be achieved through mechanics alone?** Instead of adding complexity or electronics, I investigate how sensing, decision-making, and coordination can be encoded directly in geometry, material behavior, and physical interaction. The goal is not to imitate electronic robots, but to understand what kinds of intelligence are possible when the body itself becomes the control system.
 
 Selected Research
 ======
-My research frames geometry as a functional language for creating autonomous and adaptive systems. By embedding function into shape and material architecture, I explore how structures can sense, respond, and adapt to their environment without relying on continuous control or electronics. This approach opens pathways to lightweight, resilient, and programmable systems for robotics, aerospace, and deployable mechanisms.
+My research explores electronic-free robotics through three connected ideas:
+
+**1. Simple mechanisms as functional robots**
+I study how small, minimal mechanical systems can sense, switch states, and respond to their environment through carefully designed geometry and dynamics. Rather than increasing complexity, I focus on understanding how a single mechanism can reliably achieve a specific function or behavior through physical principles alone.
+
+**2. Scale as a source of intelligence**
+When individual robots are simple and easy to manufacture, intelligence can emerge at the population level. I am interested in systems where thousands of mechanically identical agents, each with limited capability, interact to produce collective or swarm-level behavior without centralized control or communication.
+
+**3. Manufacturing as an enabling layer**
+To make electronic-free robotics practical, the design process must align with fabrication. I investigate simple, scalable, and sustainable manufacturing approaches, such as functional 3D printing and architected materials, that allow mechanical intelligence to be encoded directly during fabrication rather than added afterward.
 
 More interesting projects can be found in the "Projects Section".
 
