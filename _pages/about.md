@@ -46,7 +46,7 @@ More interesting projects can be found in the "Projects Section".
     <div class="meta">
       <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
       <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
-      <p>Under Submission</p>
+      <p>Under review</p>
     </div>
   </div>
 
@@ -79,7 +79,7 @@ More interesting projects can be found in the "Projects Section".
     <div class="meta">
       <h3>Observation of Sub-Hertz Band Gaps in Ultra-Lightweight Inerter-Based Metamaterials</h3>
       <p>Fei Chen<span>#</span>, Xinyi Yang<span>#</span>, Xiaochen Li, Jack R Platt, Michael Anthony Turja, Jan Luka Cas, Tyler S Silva, Chad Thomas Hickey, Jack Elliott Godfrey, Pai Wang*, Xuan Zhu*, Bolei Deng*</p>
-      <p>Under Submission</p>
+      <p><strong>DOI:</strong> <a href="https://doi.org/10.1103/nwvf-n7lg">10.1103/nwvf-n7lg</a></p>
     </div>
   </div>
 
@@ -90,7 +90,7 @@ More interesting projects can be found in the "Projects Section".
     <div class="meta">
       <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
       <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Christos E Athanasiou*, Bolei Deng*</p>
-      <p>To be submitted</p>
+      <p>Under review</p>
     </div>
   </div>
 
