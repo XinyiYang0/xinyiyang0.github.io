@@ -35,6 +35,7 @@ More interesting projects can be found in the "Projects Section".
     <div class="meta">
       <h3>Electronic-Free Particle Robots Communicate through Architected Tentacles</h3>
       <p>Xinyi Yang<span>#</span>, Bohan Wang<span>#</span>, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera ,Leonid Sopizhenko, Shucong Li, William Freeman*, Wojciech Matusik*,Bolei Deng*</p>
+      <p>Advanced Intelligent System</p>
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1002/aisy.202500151">10.1002/aisy.202500151</a></p>
     </div>
   </div>
@@ -79,6 +80,7 @@ More interesting projects can be found in the "Projects Section".
     <div class="meta">
       <h3>Observation of Sub-Hertz Band Gaps in Ultra-Lightweight Inerter-Based Metamaterials</h3>
       <p>Fei Chen<span>#</span>, Xinyi Yang<span>#</span>, Xiaochen Li, Jack R Platt, Michael Anthony Turja, Jan Luka Cas, Tyler S Silva, Chad Thomas Hickey, Jack Elliott Godfrey, Pai Wang*, Xuan Zhu*, Bolei Deng*</p>
+      <p>Physical Review Applied</p>
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1103/nwvf-n7lg">10.1103/nwvf-n7lg</a></p>
     </div>
   </div>
