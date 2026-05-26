@@ -43,6 +43,18 @@ More interesting projects can be found in the "Projects Section".
 
   <div class="item">
     <div class="media">
+      <img src="/images/1.gif" alt="Self-disassembly cube">
+    </div>
+    <div class="meta">
+      <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
+      <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
+      <p>Nature Communications</p>
+      <p><strong>DOI:</strong> <a href="https://doi.org/10.1038/s41467-026-72722-z">10.1038/s41467-026-72722-z</a></p>
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="media">
       <img src="/images/particle_robots.gif" alt="particle robots">
     </div>
     <div class="meta">
@@ -55,13 +67,13 @@ More interesting projects can be found in the "Projects Section".
 
   <div class="item">
     <div class="media">
-      <img src="/images/1.gif" alt="Self-disassembly cube">
+      <img src="/images/inerter.gif" alt="inerter">
     </div>
     <div class="meta">
-      <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
-      <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
-      <p>Nature Communications</p>
-      <p><strong>DOI:</strong> <a href="https://doi.org/10.1038/s41467-026-72722-z">10.1038/s41467-026-72722-z</a></p>
+      <h3>Observation of Sub-Hertz Band Gaps in Ultra-Lightweight Inerter-Based Metamaterials</h3>
+      <p>Fei Chen<span>#</span>, Xinyi Yang<span>#</span>, Xiaochen Li, Jack R Platt, Michael Anthony Turja, Jan Luka Cas, Tyler S Silva, Chad Thomas Hickey, Jack Elliott Godfrey, Pai Wang*, Xuan Zhu*, Bolei Deng*</p>
+      <p>Physical Review Applied</p>
+      <p><strong>DOI:</strong> <a href="https://doi.org/10.1103/nwvf-n7lg">10.1103/nwvf-n7lg</a></p>
     </div>
   </div>
 
@@ -84,18 +96,6 @@ More interesting projects can be found in the "Projects Section".
       <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
       <p>Xinyi Yang, Bolei Deng</p>
       <p>To be submitted</p>
-    </div>
-  </div>
-  
-  <div class="item">
-    <div class="media">
-      <img src="/images/inerter.gif" alt="inerter">
-    </div>
-    <div class="meta">
-      <h3>Observation of Sub-Hertz Band Gaps in Ultra-Lightweight Inerter-Based Metamaterials</h3>
-      <p>Fei Chen<span>#</span>, Xinyi Yang<span>#</span>, Xiaochen Li, Jack R Platt, Michael Anthony Turja, Jan Luka Cas, Tyler S Silva, Chad Thomas Hickey, Jack Elliott Godfrey, Pai Wang*, Xuan Zhu*, Bolei Deng*</p>
-      <p>Physical Review Applied</p>
-      <p><strong>DOI:</strong> <a href="https://doi.org/10.1103/nwvf-n7lg">10.1103/nwvf-n7lg</a></p>
     </div>
   </div>
 
