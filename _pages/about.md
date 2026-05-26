@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Non-electronic robotic systems are often viewed as limited, passive, or closer to mechanisms than robots. Without sensors, computation, or software, they are typically assumed to lack decision-making, adaptability, and autonomy.
+I am a PhD researcher in Aerospace Engineering at Georgia Tech, advised by [Bolei Deng](https://boleideng.com/) and [Christos Athanasiou](https://ae.gatech.edu/directory/person/christos-e-athanasiou). I hold an M.Des. (Mediums/Technology track) from the Harvard Graduate School of Design with cross-registration at MIT Media Lab and CSAIL, with prior research experience at Harvard's Microrobotics Lab (Robert Wood group), the HCIE group at MIT CSAIL (Stefanie Mueller group), and the Morphing Matter Lab at CMU (Lining Yao group).
 
-I am Xinyi Yang, a PhD researcher in Aerospace Engineering at Georgia Tech, working at the intersection of robotics, mechanics, and architected materials. My research starts from a different question: **how much robotic functionality can be achieved through mechanics alone?** Instead of adding complexity or electronics, I investigate how sensing, decision-making, and coordination can be encoded directly in geometry, material behavior, and physical interaction. The goal is not to imitate electronic robots, but to understand what kinds of intelligence are possible when the body itself becomes the control system.
+My research starts from a specific question: **how much robotic functionality can be achieved through mechanics alone?** Instead of relying on electronics, computation, or software, I investigate how sensing, decision-making, and coordinated behavior can be encoded directly in geometry, material properties, and physical interaction. I study how manufacturing can program physical behavior into structure, making robots simpler, more scalable, and independent of electronic infrastructure.
 
 News
 ======
