@@ -164,3 +164,74 @@ Publications
 }
 </style>
 
+<h1 style="font-size:1.4rem; font-weight:300; font-family:Georgia,serif; margin-top:50px; padding-bottom:8px; border-bottom:1px solid #e2e0d8;">Art Practice</h1>
+
+<p style="font-size:0.95rem; line-height:1.65; margin-bottom:24px;">
+Alongside my research, I maintain an independent art practice that treats mechanical structure as a medium for thought. The works are not illustrations of research — they are governed by a different standard: structural equivalence between a physical phenomenon and its conceptual meaning, not metaphorical analogy. Each piece begins with an engineering fact and asks what that fact already says, without narrative imposed from outside. Full portfolio at <a href="https://xinyiyang.space/">xinyiyang.space</a>.
+</p>
+
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:20px;">
+  <div style="border:1px solid #e2e0d8; border-radius:8px; overflow:hidden; background:#fff;">
+    <img src="/images/mass_return.jpg" alt="Mass Return" style="width:100%; height:200px; object-fit:cover; display:block;">
+    <div style="padding:16px 18px;">
+      <h4 style="font-size:1.05rem; font-weight:600; margin-bottom:4px; font-family:Georgia,serif;">Mass Return</h4>
+      <p style="font-size:0.75rem; color:#888; margin-bottom:8px;">2025 — Installation, five balance scale assemblies</p>
+      <p style="font-size:0.85rem; color:#555; line-height:1.55;">Five balance scales, each holding the same substance at two points in its life: unprocessed raw material on one side, an aerospace-grade fragment on the other. Every scale is perfectly balanced. The mass has not changed. But between the two sides lies the entirety of human technical ambition — extraction, smelting, manufacturing, launch, abandonment.</p>
+    </div>
+  </div>
+  <div style="border:1px solid #e2e0d8; border-radius:8px; overflow:hidden; background:#fff;">
+    <img src="/images/singularity.jpg" alt="Singularity" style="width:100%; height:200px; object-fit:cover; display:block;">
+    <div style="padding:16px 18px;">
+      <h4 style="font-size:1.05rem; font-weight:600; margin-bottom:4px; font-family:Georgia,serif;">Singularity</h4>
+      <p style="font-size:0.75rem; color:#888; margin-bottom:8px;">2025 — Kinetic installation, robotic arm and mirror</p>
+      <p style="font-size:0.85rem; color:#555; line-height:1.55;">A single industrial robotic arm repeatedly approaches a flat mirror placed at its kinematic singularity — the exact configuration where the Jacobian matrix becomes singular and the arm loses a degree of freedom. As it nears, the arm trembles, deflects, retreats, and tries again. In the mirror: a valid kinematic solution it can never physically reach.</p>
+    </div>
+  </div>
+</div>
+
+<h1 style="font-size:1.4rem; font-weight:300; font-family:Georgia,serif; margin-top:50px; padding-bottom:8px; border-bottom:1px solid #e2e0d8;">Selected Earlier Work</h1>
+
+<div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:20px; margin-top:20px;">
+  <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
+    <img src="/images/zero_G_full.png" alt="Zero-Gravity Fashion" style="width:100%; height:120px; object-fit:cover; display:block;">
+    <div style="padding:10px 12px;">
+      <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">Zero-Gravity Fashion</h5>
+      <p style="font-size:0.7rem; color:#888;">MIT Media Lab · Parabolic flight tested · <a href="https://www.media.mit.edu/projects/fashion-in-space-interactive-clothing-the-future-of-fashion-in-sci-fi-context/overview/">MIT News</a></p>
+    </div>
+  </div>
+  <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
+    <img src="/images/ferrofluid.gif" alt="Liquid Choreography" style="width:100%; height:120px; object-fit:cover; display:block;">
+    <div style="padding:10px 12px;">
+      <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">Liquid Choreography</h5>
+      <p style="font-size:0.7rem; color:#888;">MIT Media Lab, 2021 · Ferrofluid and violin</p>
+    </div>
+  </div>
+  <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
+    <img src="/images/pullup.png" alt="One Pull, Form Emerges" style="width:100%; height:120px; object-fit:cover; display:block;">
+    <div style="padding:10px 12px;">
+      <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">One Pull, Form Emerges</h5>
+      <p style="font-size:0.7rem; color:#888;">ACM TEI '23</p>
+    </div>
+  </div>
+  <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
+    <img src="/images/bunny.jpg" alt="When Geometry Meets Matter" style="width:100%; height:120px; object-fit:cover; display:block;">
+    <div style="padding:10px 12px;">
+      <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">When Geometry Meets Matter</h5>
+      <p style="font-size:0.7rem; color:#888;">Harvard GSD · Ceramics fabrication</p>
+    </div>
+  </div>
+  <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
+    <img src="/images/fleximesh1.gif" alt="FlexiMesh" style="width:100%; height:120px; object-fit:cover; display:block;">
+    <div style="padding:10px 12px;">
+      <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">FlexiMesh: Computational Textiles</h5>
+      <p style="font-size:0.7rem; color:#888;">MIT Media Lab · 3D printed anisotropic lattice</p>
+    </div>
+  </div>
+  <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
+    <img src="/images/computing_fabric.gif" alt="Interactive Computing Fabric" style="width:100%; height:120px; object-fit:cover; display:block;">
+    <div style="padding:10px 12px;">
+      <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">Interactive Computing Fabric</h5>
+      <p style="font-size:0.7rem; color:#888;">MIT Media Lab · Conductive fiber sensing</p>
+    </div>
+  </div>
+</div>
