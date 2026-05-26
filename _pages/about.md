@@ -60,7 +60,8 @@ More interesting projects can be found in the "Projects Section".
     <div class="meta">
       <h3>Remote Disassembly of Electronics-Free Modular Structures</h3>
       <p>Xinyi Yang, Martin Nisser, Weijian Qian, Christos E Athanasiou*,Bolei Deng*</p>
-      <p>Accepted and will be released soon</p>
+      <p>Nature Communications</p>
+      <p><strong>DOI:</strong> <a href="https://doi.org/10.1038/s41467-026-72722-z">10.1038/s41467-026-72722-z</a></p>
     </div>
   </div>
 
