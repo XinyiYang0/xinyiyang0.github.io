@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in Aerospace Engineering at Georgia Tech, advised by [Bolei Deng](https://boleideng.com/) and [Christos Athanasiou](https://ae.gatech.edu/directory/person/christos-e-athanasiou). I hold an M.Des. (Mediums/Technology track) from the Harvard Graduate School of Design with cross-registration at MIT Media Lab and CSAIL, with prior research experience at Harvard's Microrobotics Lab (Robert Wood group), the HCIE group at MIT CSAIL (Stefanie Mueller group), and the Morphing Matter Lab at CMU (Lining Yao group).
+I am a 2nd year PhD researcher in Aerospace Engineering at Georgia Tech, advised by [Bolei Deng](https://boleideng.com/) and [Christos Athanasiou](https://ae.gatech.edu/directory/person/christos-e-athanasiou). I hold an M.Des. (Mediums/Technology track) from the Harvard Graduate School of Design with cross-registration at MIT Media Lab and CSAIL, with prior research experience at Harvard's Microrobotics Lab (Robert Wood group), the HCIE group at MIT CSAIL (Stefanie Mueller group), and the Morphing Matter Lab at CMU (Lining Yao group).
 
 
 News
