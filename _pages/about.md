@@ -22,7 +22,7 @@ News
 - **2025.09** Attended ASME SMASIS and presented "Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment".
 - **2025.07** Our paper on [electronic-free particle robots](https://doi.org/10.1002/aisy.202500151) is published in *Advanced Intelligent Systems*.
 - **2024.08** Attended IDETC/CIE and presented "Electronic-Free Particle Robots Communicate through Architected Tentacles".
-- **2024.06** Started my PhD journal at Georgia Tech Aerospace Deparment.
+- **2024.06** Started my PhD journey at Georgia Tech Aerospace Department.
 
 Research Highlights
 ======
