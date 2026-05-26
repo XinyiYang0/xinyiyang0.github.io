@@ -40,7 +40,7 @@ I study how filtering, routing, and switching — realized through geometry, com
 I investigate how fabrication can encode mechanical intelligence directly into structure: functional 3D printing with in-situ characterization, architected metamaterials with designed frequency response, and sustainable fabrication using biodegradable and recyclable materials. Manufacturing here is not a downstream step — it is where filtering, routing, and switching get physically programmed.
 
 
-Publications
+Selected Publications
 ======
 
 <div class="research-list">
