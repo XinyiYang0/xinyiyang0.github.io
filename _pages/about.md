@@ -164,7 +164,8 @@ Publications
 }
 </style>
 
-<h1 style="font-size:1.4rem; font-weight:300; font-family:Georgia,serif; margin-top:50px; padding-bottom:8px; border-bottom:1px solid #e2e0d8;">Art Practice</h1>
+Art Practice
+======
 
 <p style="font-size:0.95rem; line-height:1.65; margin-bottom:24px;">
 Alongside my research, I maintain an independent art practice that treats mechanical structure as a medium for thought. The works are not illustrations of research — they are governed by a different standard: structural equivalence between a physical phenomenon and its conceptual meaning, not metaphorical analogy. Each piece begins with an engineering fact and asks what that fact already says, without narrative imposed from outside. Full portfolio at <a href="https://xinyiyang.space/">xinyiyang.space</a>.
@@ -189,7 +190,8 @@ Alongside my research, I maintain an independent art practice that treats mechan
   </div>
 </div>
 
-<h1 style="font-size:1.4rem; font-weight:300; font-family:Georgia,serif; margin-top:50px; padding-bottom:8px; border-bottom:1px solid #e2e0d8;">Selected Earlier Work</h1>
+Selected Earlier Work
+======
 
 <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:20px; margin-top:20px;">
   <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
