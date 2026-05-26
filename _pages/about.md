@@ -9,7 +9,6 @@ redirect_from:
 
 I am a PhD researcher in Aerospace Engineering at Georgia Tech, advised by [Bolei Deng](https://boleideng.com/) and [Christos Athanasiou](https://ae.gatech.edu/directory/person/christos-e-athanasiou). I hold an M.Des. (Mediums/Technology track) from the Harvard Graduate School of Design with cross-registration at MIT Media Lab and CSAIL, with prior research experience at Harvard's Microrobotics Lab (Robert Wood group), the HCIE group at MIT CSAIL (Stefanie Mueller group), and the Morphing Matter Lab at CMU (Lining Yao group).
 
-My research starts from a specific question: **how much robotic functionality can be achieved through mechanics alone?** Instead of relying on electronics, computation, or software, I investigate how sensing, decision-making, and coordinated behavior can be encoded directly in geometry, material properties, and physical interaction. I study how manufacturing can program physical behavior into structure, making robots simpler, more scalable, and independent of electronic infrastructure.
 
 News
 ======
@@ -24,7 +23,7 @@ News
 - **2025.07** Our paper on [electronic-free particle robots](https://doi.org/10.1002/aisy.202500151) is published in *Advanced Intelligent Systems*.
 - **2024.08** Attended IDETC/CIE and presented "Electronic-Free Particle Robots Communicate through Architected Tentacles".
 
-Selected Research
+Research Highlights
 ======
 
 My research asks how robotic functionality can be achieved through mechanics alone. In a recent perspective, we identify three core operations through which mechanical intelligence can be realized in the physical body: **filtering** (selective reshaping of inputs by frequency, direction, or magnitude), **routing** (geometry-defined propagation of mechanical signals), and **switching** (discrete state transitions through instability and multistability). These operations enable sensing, locomotion, manipulation, and coordination without electronic hardware.
@@ -38,6 +37,10 @@ I study how filtering, routing, and switching — realized through geometry, com
 
 **2. Manufacturing and architected materials**
 I investigate how fabrication can encode mechanical intelligence directly into structure: functional 3D printing with in-situ characterization, architected metamaterials with designed frequency response, and sustainable fabrication using biodegradable and recyclable materials. Manufacturing here is not a downstream step — it is where filtering, routing, and switching get physically programmed.
+
+
+Publications
+======
 
 <div class="research-list">
 
