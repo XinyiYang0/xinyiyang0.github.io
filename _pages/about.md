@@ -26,18 +26,18 @@ News
 
 Selected Research
 ======
-My research explores electronic-free robotics through three connected ideas:
 
-**1. Simple mechanisms as functional robots**
-I study how small, minimal mechanical systems can sense, switch states, and respond to their environment through carefully designed geometry and dynamics. Rather than increasing complexity, I focus on understanding how a single mechanism can reliably achieve a specific function or behavior through physical principles alone.
+My research asks how robotic functionality can be achieved through mechanics alone. In a [recent perspective](链接), we identify three core operations through which mechanical intelligence can be realized in the physical body: **filtering** (selective reshaping of inputs by frequency, direction, or magnitude), **routing** (geometry-defined propagation of mechanical signals), and **switching** (discrete state transitions through instability and multistability). These operations enable sensing, locomotion, manipulation, and coordination without electronic hardware.
 
-**2. Scale as a source of intelligence**
-When individual robots are simple and easy to manufacture, intelligence can emerge at the population level. I am interested in systems where thousands of mechanically identical agents, each with limited capability, interact to produce collective or swarm-level behavior without centralized control or communication.
+I approach this through two connected layers — the first concerns how these mechanical operations produce robotic behavior; the second concerns how manufacturing and material architecture make such systems physically realizable.
 
-**3. Manufacturing as an enabling layer**
-To make electronic-free robotics practical, the design process must align with fabrication. I investigate simple, scalable, and sustainable manufacturing approaches, such as functional 3D printing and architected materials, that allow mechanical intelligence to be encoded directly during fabrication rather than added afterward.
+<img src="/images/research_framework.jpg" alt="Research Framework" style="width:100%; margin: 20px 0;">
 
-More interesting projects can be found in the "Projects Section".
+**1. Mechanisms and behaviors**
+I study how filtering, routing, and switching — realized through geometry, compliance, and energy landscapes — give rise to frequency-selective locomotion, resonance-driven crawling, wind-triggered deployment, remote disassembly, and collective behavior in particle robot swarms. These systems operate without electronics, centralized control, or onboard power.
+
+**2. Manufacturing and architected materials**
+I investigate how fabrication can encode mechanical intelligence directly into structure: functional 3D printing with in-situ characterization, architected metamaterials with designed frequency response, and sustainable fabrication using biodegradable and recyclable materials. Manufacturing here is not a downstream step — it is where filtering, routing, and switching get physically programmed.
 
 <div class="research-list">
 
