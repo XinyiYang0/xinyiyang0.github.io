@@ -176,7 +176,7 @@ Alongside my research, I maintain an independent art practice that treats mechan
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:20px;">
   <div style="border:1px solid #e2e0d8; border-radius:8px; overflow:hidden; background:#fff;">
-    <img src="/images/scale.gif" alt="Mass Return" style="width:100%; height:400px; object-fit:cover; display:block;">
+    <img src="/images/scale.gif" alt="Mass Return" style="width:100%; height:300px; object-fit:cover; display:block;">
     <div style="padding:16px 18px;">
       <h4 style="font-size:1.05rem; font-weight:600; margin-bottom:4px; font-family:Georgia,serif;">Mass Return</h4>
       <p style="font-size:0.75rem; color:#888; margin-bottom:8px;">2025 — Installation, five balance scale assemblies</p>
@@ -184,7 +184,7 @@ Alongside my research, I maintain an independent art practice that treats mechan
     </div>
   </div>
   <div style="border:1px solid #e2e0d8; border-radius:8px; overflow:hidden; background:#fff;">
-    <img src="/images/robot_arm.gif" alt="Singularity" style="width:100%; height:400px; object-fit:cover; display:block;">
+    <img src="/images/robot_arm.gif" alt="Singularity" style="width:100%; height:300px; object-fit:cover; display:block;">
     <div style="padding:16px 18px;">
       <h4 style="font-size:1.05rem; font-weight:600; margin-bottom:4px; font-family:Georgia,serif;">Singularity</h4>
       <p style="font-size:0.75rem; color:#888; margin-bottom:8px;">2025 — Kinetic installation, robotic arm and mirror</p>
@@ -231,14 +231,14 @@ Selected Earlier Work
     <img src="/images/fleximesh1.gif" alt="FlexiMesh" style="width:100%; height:200px; object-fit:cover; display:block;">
     <div style="padding:10px 12px;">
       <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">FlexiMesh: Computational Textiles</h5>
-      <p style="font-size:0.7rem; color:#888;">MIT Media Lab · 3D printed anisotropic lattice</p>
+      <p style="font-size:0.7rem; color:#888;">MIT HCIE Group · 3D printed anisotropic lattice</p>
     </div>
   </div>
   <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
     <img src="/images/computing_fabric.gif" alt="Interactive Computing Fabric" style="width:100%; height:200px; object-fit:cover; display:block;">
     <div style="padding:10px 12px;">
       <h5 style="font-size:0.85rem; font-weight:600; margin-bottom:2px;">Interactive Computing Fabric</h5>
-      <p style="font-size:0.7rem; color:#888;">MIT Media Lab · Conductive fiber sensing</p>
+      <p style="font-size:0.7rem; color:#888;">MIT Mechanical Engineering · Conductive fiber sensing</p>
     </div>
   </div>
 </div>
