@@ -11,6 +11,19 @@ Non-electronic robotic systems are often viewed as limited, passive, or closer t
 
 I am Xinyi Yang, a PhD researcher in Aerospace Engineering at Georgia Tech, working at the intersection of robotics, mechanics, and architected materials. My research starts from a different question: **how much robotic functionality can be achieved through mechanics alone?** Instead of adding complexity or electronics, I investigate how sensing, decision-making, and coordination can be encoded directly in geometry, material behavior, and physical interaction. The goal is not to imitate electronic robots, but to understand what kinds of intelligence are possible when the body itself becomes the control system.
 
+News
+======
+- **2026.05** Our workshop ["Mechanically Intelligent Soft Robotics"](https://sites.google.com/view/misr2026/home) has been accepted by IROS committee! See you in Pittsburgh this Oct.!
+- **2026.05** Our paper on [remote disassembly of electronics-free modular structures](https://doi.org/10.1038/s41467-026-72722-z) is published in *Nature Communications*.
+- **2026.01** Our paper on [sub-hertz band gaps in inerter-based metamaterials](https://doi.org/10.1103/nwvf-n7lg) is published in *Physical Review Applied*.
+- **2025.12** Our paper on [electronic-free particle robots](https://doi.org/10.1002/aisy.202500151) is selected as the journal front cover in [*Advanced Intelligent Systems*](https://advanced.onlinelibrary.wiley.com/toc/26404567/2025/7/12).
+- **2025.11** Attended ASME IMECE and presented "Integrated High-Throughput In-Situ Mechanical Characterization of Additively Manufactured Structures".
+- **2025.10** Attended the Society of Engineering Science Technical Meeting and presented "Remote Disassembly of Electronics-Free Modular Structures".
+- **2025.09** Our paper on [Passive Vacuum Regeneration for Suction-Based Marine Adhesion Devices](https://doi.org/10.1109/JOE.2025.3595607) is published in *IEEE Journal of Oceanic Engineering*.
+- **2025.09** Attended ASME SMASIS and presented "Bioinspired, Wind-Triggered, Biodegradable Seed Carrier for Electronic-Free Precision Deployment".
+- **2025.07** Our paper on [electronic-free particle robots](https://doi.org/10.1002/aisy.202500151) is published in *Advanced Intelligent Systems*.
+- **2024.08** Attended IDETC/CIE and presented "Electronic-Free Particle Robots Communicate through Architected Tentacles".
+
 Selected Research
 ======
 My research explores electronic-free robotics through three connected ideas:
