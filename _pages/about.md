@@ -27,7 +27,7 @@ News
 Selected Research
 ======
 
-My research asks how robotic functionality can be achieved through mechanics alone. In a [recent perspective](链接), we identify three core operations through which mechanical intelligence can be realized in the physical body: **filtering** (selective reshaping of inputs by frequency, direction, or magnitude), **routing** (geometry-defined propagation of mechanical signals), and **switching** (discrete state transitions through instability and multistability). These operations enable sensing, locomotion, manipulation, and coordination without electronic hardware.
+My research asks how robotic functionality can be achieved through mechanics alone. In a recent perspective, we identify three core operations through which mechanical intelligence can be realized in the physical body: **filtering** (selective reshaping of inputs by frequency, direction, or magnitude), **routing** (geometry-defined propagation of mechanical signals), and **switching** (discrete state transitions through instability and multistability). These operations enable sensing, locomotion, manipulation, and coordination without electronic hardware.
 
 I approach this through two connected layers — the first concerns how these mechanical operations produce robotic behavior; the second concerns how manufacturing and material architecture make such systems physically realizable.
 
