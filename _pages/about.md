@@ -203,10 +203,10 @@ Alongside my research, I maintain an independent art practice that treats mechan
 
 
 
-Selected Earlier Work
+Earlier Foundations
 ======
 <p style="font-size:0.95rem; line-height:1.65; margin-bottom:24px;">
-Earlier work across computational design, fabrication, interaction, and speculative systems.
+Before my PhD, my work explored how material behavior, fabrication, and interaction design can turn physical structures into responsive systems.
 </p>
 
 <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:20px; margin-top:20px;">
