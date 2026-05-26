@@ -63,7 +63,7 @@ Publications
     <div class="meta">
       <h3>Electronic-Free Particle Robots Communicate through Architected Tentacles</h3>
       <p>Xinyi Yang<span>#</span>, Bohan Wang<span>#</span>, Víctor Riera Naranjo, Minghao Guo, Olivia Rivera ,Leonid Sopizhenko, Shucong Li, William Freeman*, Wojciech Matusik*,Bolei Deng*</p>
-      <p>Advanced Intelligent System</p>
+      <p>Advanced Intelligent Systems</p>
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1002/aisy.202500151">10.1002/aisy.202500151</a></p>
     </div>
   </div>
@@ -79,6 +79,24 @@ Publications
       <p><strong>DOI:</strong> <a href="https://doi.org/10.1103/nwvf-n7lg">10.1103/nwvf-n7lg</a></p>
     </div>
   </div>
+
+  <div class="item">
+    <div class="media">
+      <img src="/images/insitu.gif" alt="insitu">
+    </div>
+    <div class="meta">
+      <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
+      <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Christos E Athanasiou*, Bolei Deng*</p>
+      <p>Under review</p>
+    </div>
+  </div>
+
+</div>
+
+Selected Projects
+======
+
+<div class="research-list">
 
   <div class="item">
     <div class="media">
@@ -99,17 +117,6 @@ Publications
       <h3>Frequency-Selective Control of Modular Structures: A Mechanical Phone Call</h3>
       <p>Xinyi Yang, Bolei Deng</p>
       <p>To be submitted</p>
-    </div>
-  </div>
-
-  <div class="item">
-    <div class="media">
-      <img src="/images/insitu.gif" alt="insitu">
-    </div>
-    <div class="meta">
-      <h3>In-Situ Mechanical Property Characterization of 3D-Printed Materials Using FDM and High-Speed Imaging</h3>
-      <p>Xiaochen Li<span>#</span>, Xinyi Yang<span>#</span>, Chuqi Sun<span>#</span>, Christos E Athanasiou*, Bolei Deng*</p>
-      <p>Under review</p>
     </div>
   </div>
 
@@ -197,6 +204,9 @@ Alongside my research, I maintain an independent art practice that treats mechan
 
 Selected Earlier Work
 ======
+<p style="font-size:0.95rem; line-height:1.65; margin-bottom:24px;">
+Earlier work across computational design, fabrication, interaction, and speculative systems.
+</p>
 
 <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:20px; margin-top:20px;">
   <div style="border:1px solid #e2e0d8; border-radius:6px; overflow:hidden; background:#fff;">
