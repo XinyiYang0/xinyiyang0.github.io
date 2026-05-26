@@ -176,7 +176,7 @@ Alongside my research, I maintain an independent art practice that treats mechan
 
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:20px;">
   <div style="border:1px solid #e2e0d8; border-radius:8px; overflow:hidden; background:#fff;">
-    <img src="/images/Sequence 01.gif" alt="Mass Return" style="width:100%; height:200px; object-fit:cover; display:block;">
+    <img src="/images/scale.gif" alt="Mass Return" style="width:100%; height:200px; object-fit:cover; display:block;">
     <div style="padding:16px 18px;">
       <h4 style="font-size:1.05rem; font-weight:600; margin-bottom:4px; font-family:Georgia,serif;">Mass Return</h4>
       <p style="font-size:0.75rem; color:#888; margin-bottom:8px;">2025 — Installation, five balance scale assemblies</p>
@@ -184,7 +184,7 @@ Alongside my research, I maintain an independent art practice that treats mechan
     </div>
   </div>
   <div style="border:1px solid #e2e0d8; border-radius:8px; overflow:hidden; background:#fff;">
-    <img src="/images/Singularity_Render0001-0300.gif" alt="Singularity" style="width:100%; height:200px; object-fit:cover; display:block;">
+    <img src="/images/robot_arm.gif" alt="Singularity" style="width:100%; height:200px; object-fit:cover; display:block;">
     <div style="padding:16px 18px;">
       <h4 style="font-size:1.05rem; font-weight:600; margin-bottom:4px; font-family:Georgia,serif;">Singularity</h4>
       <p style="font-size:0.75rem; color:#888; margin-bottom:8px;">2025 — Kinetic installation, robotic arm and mirror</p>
