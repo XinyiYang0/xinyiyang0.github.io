@@ -146,6 +146,7 @@ Selected Publications
     <div class="meta">
       <h3>Toward Mechanical Intelligence in Robotics</h3>
       <p>Xinyi Yang, Xinyi Ding, Tianyu Wang, Daniel I. Goldman*, Shucong Li*, Bolei Deng*</p>
+      <p>Perspective paper</p>
       <p>Under review</p>
     </div>
   </div>
