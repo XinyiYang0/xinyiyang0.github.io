@@ -102,6 +102,18 @@ Selected Publications
     </div>
   </div>
 
+
+  <div class="item">
+    <div class="media">
+      <img src="/images/sensing_intelligence.png" alt="sensing">
+    </div>
+    <div class="meta">
+      <h3>Sensing Intelligence as a Trainable Metamaterial Property</h3>
+      <p>Kyungmi Na, Yifei Li, Xinyi Yang, Bolei Deng*</p>
+      <p>Under review</p>
+    </div>
+  </div>
+
 </div>
 
 Selected Projects
