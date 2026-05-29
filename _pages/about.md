@@ -27,17 +27,27 @@ News
 Research Highlights
 ======
 
-My research asks how robotic functionality can be achieved through mechanics alone. In a recent perspective, we identify three core operations through which mechanical intelligence can be realized in the physical body: **filtering** (selective reshaping of inputs by frequency, direction, or magnitude), **routing** (geometry-defined propagation of mechanical signals), and **switching** (discrete state transitions through instability and multistability). These operations enable sensing, locomotion, manipulation, and coordination without electronic hardware.
+My research focuses on the design and fabrication of mechanically intelligent systems, asking how robotic functionality can be physically encoded into structure, material architecture, and dynamics. Rather than treating robots as bodies controlled only by electronics, I study how the body itself can filter information, route mechanical signals, switch states, respond to stimuli, and generate behavior.
 
-I approach this through two connected layers — the first concerns how these mechanical operations produce robotic behavior; the second concerns how manufacturing and material architecture make such systems physically realizable.
+<img src="/images/diagram02.jpg" alt="Research Positioning" style="width:100%; margin: 20px 0;">
+
+**Toward robotics.** I develop mechanically intelligent systems in which sensing, locomotion, manipulation, and coordination emerge from structure, dynamics, and material response, reducing reliance on electronic hardware, centralized control, or onboard power.
+
+**Toward materials.** I use materials and architected matter as programmable physical substrates, where responsiveness, compliance, multistability, and designed frequency response can be encoded directly into structure.
+
+**Toward AI.** I use AI to support mechanism discovery, surrogate modeling, inverse design, and closed-loop optimization, helping identify structure-function relationships and translate mechanical principles into realizable robotic systems.
+
+At the core of this research is a mechanics-first framework for robotic intelligence. In a recent perspective, we identify three fundamental operations through which mechanical intelligence can be realized in the physical body: **filtering** (selective reshaping of inputs by frequency, direction, or magnitude), **routing** (geometry-defined propagation of mechanical signals), and **switching** (discrete state transitions through instability and multistability). These operations provide a basis for sensing, locomotion, manipulation, and coordination without relying exclusively on electronic control.
+
+I approach this framework through two connected layers. The first concerns how mechanical operations produce robotic behavior. The second concerns how design, fabrication, and material architecture make such systems physically realizable.
 
 <img src="/images/research_framework.jpg" alt="Research Framework" style="width:100%; margin: 20px 0;">
 
-**1. Mechanisms and behaviors**
-I study how filtering, routing, and switching — realized through geometry, compliance, and energy landscapes — give rise to frequency-selective locomotion, resonance-driven crawling, wind-triggered deployment, remote disassembly, and collective behavior in particle robot swarms. These systems operate without electronics, centralized control, or onboard power.
+**1. Mechanisms and behaviors**  
+I study how filtering, routing, and switching, realized through geometry, compliance, resonance, and energy landscapes, give rise to frequency-selective locomotion, resonance-driven crawling, wind-triggered deployment, remote disassembly, and collective behavior in particle robot swarms. These systems operate without conventional electronics, centralized control, or onboard power.
 
-**2. Manufacturing and architected materials**
-I investigate how fabrication can encode mechanical intelligence directly into structure: functional 3D printing with in-situ characterization, architected metamaterials with designed frequency response, and sustainable fabrication using biodegradable and recyclable materials. Manufacturing here is not a downstream step — it is where filtering, routing, and switching get physically programmed.
+**2. Design, fabrication, and architected materials**  
+I investigate how fabrication can encode mechanical intelligence directly into physical structure: functional 3D printing with in-situ characterization, architected materials with designed dynamic response, and sustainable fabrication using biodegradable and recyclable materials. In this view, fabrication is not a downstream implementation step; it is where filtering, routing, switching, and responsiveness become physically programmed.
 
 
 Selected Publications
