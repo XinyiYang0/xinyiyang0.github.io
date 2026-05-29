@@ -93,6 +93,18 @@ Selected Publications
 
   <div class="item">
     <div class="media">
+      <img src="/images/underwater_tag.gif" alt="Self-disassembly cube">
+    </div>
+    <div class="meta">
+      <h3>Passive Vacuum Regeneration for Suction-Based Marine Adhesion Devices</h3>
+      <p>Germain Meyer, Daniel M. Vogt, Xinyi Yang, Robert J. Wood</p>
+      <p>IEEE Journal of Oceanic Engineering</p>
+      <p><strong>DOI:</strong> <a href="https://ieeexplore.ieee.org/document/11173923">10.1109/JOE.2025.3595607</a></p>
+    </div>
+  </div>
+
+  <div class="item">
+    <div class="media">
       <img src="/images/insitu.gif" alt="insitu">
     </div>
     <div class="meta">
