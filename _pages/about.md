@@ -111,6 +111,7 @@ Selected Publications
       <h3>Sensing Intelligence as a Trainable Metamaterial Property</h3>
       <p>Kyungmi Na, Yifei Li, Xinyi Yang, Bolei Deng*</p>
       <p>Under review</p>
+      <p><strong>DOI:</strong> <a href="https://arxiv.org/abs/2605.23967">arxiv.org/abs/2605.23967</a></p>
     </div>
   </div>
 
